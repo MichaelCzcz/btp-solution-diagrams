@@ -1,7 +1,7 @@
-# Business AI Platform Solution Diagram Examples
+# SAP Business AI Platform Solution Diagram Examples
 
 ## Diagram Granularity
-We will provide here example Business AI Platform Solution Diagrams for the following scenarios and presets you can easily reuse in your own diagrams:
+We will provide here example SAP Business AI Platform Solution Diagrams for the following scenarios and presets you can easily reuse in your own diagrams:
 
 - [SAP Task Center (L0)](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&page=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FSAP%2Fbtp-solution-diagrams%2Fmain%2Fassets%2Feditable-diagram-examples%2F/SAP_Task_Center_L0.drawio)
 - [SAP Task Center (L1)](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&page=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FSAP%2Fbtp-solution-diagrams%2Fmain%2Fassets%2Feditable-diagram-examples%2F/SAP_Task_Center_L1.drawio)
